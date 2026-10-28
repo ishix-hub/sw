@@ -1,0 +1,36 @@
+day,meal,item,groups,processed
+Monday,Breakfast,Sprouted grams with jaggery,3,0
+Monday,Tiffin,Puri + chole,2;3,0
+Monday,Lunch,Rice with aalu+bari / green vegetable,2;3;8,0
+Monday,Snacks,Pakori / boiled grams,3,0
+Monday,Dinner,Rice with pakori curry,2;3,0
+Tuesday,Breakfast,Bread with grams,2;3,0
+Tuesday,Tiffin,Poha,2,0
+Tuesday,Lunch,Rice with sabji gravy,2;8,0
+Tuesday,Snacks,Biscuit / sweet bread,2,1
+Tuesday,Dinner,Veg khichdi,2;3;8,0
+Wednesday,Breakfast,Daliya / bread,2,0
+Wednesday,Tiffin,Chilka roti / sandwich + banana,2;8,0
+Wednesday,Lunch,Rice with egg curry,2;6,0
+Wednesday,Snacks,Veg maggi,2;8,1
+Wednesday,Dinner,Rice with rajma roti & sabji,2;3;8,0
+Thursday,Breakfast,Boiled grams,3,0
+Thursday,Tiffin,Upma suji,2,0
+Thursday,Lunch,Rice with green vegetable + bhujia + tomato chutney,2;8,0
+Thursday,Snacks,Daliya & bread,2,0
+Thursday,Dinner,Roti + sabji,2;8,0
+Friday,Breakfast,Toast / Maggi,2,1
+Friday,Tiffin,Roti + bhujia,2;8,0
+Friday,Lunch,Rice with chana + aalu,2;3,0
+Friday,Snacks,Ghugni mudee / daliya,2;3,0
+Friday,Dinner,Rice and talka daal with aalu bhujia,2;3,0
+Saturday,Breakfast,Biscuits / bread,2,1
+Saturday,Tiffin,Noodles,2,1
+Saturday,Lunch,Rice with aalu choka & aachar,2,0
+Saturday,Snacks,Toast / veg maggi,2;8,1
+Saturday,Dinner,Veg khichidi,2;3;8,0
+Sunday,Breakfast,Sprouted grams & mung,3,0
+Sunday,Tiffin,Idli sambar / paratha + tomato / dhania chutney,2;3;8,0
+Sunday,Lunch,Rice with non-veg (fish or chicken or duck) + salad or chutney,2;5;8,0
+Sunday,Snacks,Daliya / biscuits,2,0
+Sunday,Dinner,Rice with sabji aalu & bari,2;3;8,0
